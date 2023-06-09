@@ -1,0 +1,14 @@
+.home-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #333;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align:0;
+  }  

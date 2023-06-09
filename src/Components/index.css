@@ -1,0 +1,92 @@
+
+
+.l{
+
+  padding-right: 100px;
+  width: fit-content;
+  display: block;
+}
+
+
+
+h2 {
+	text-align: center;
+}
+
+label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+	padding: 8px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	width: 100%;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+}
+
+input[type="submit"] {
+	background-color: #95e769;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top: 10px;
+}
+.a{
+	
+	font-size: 25px;
+}
+.submit{
+	display: flex;
+		color: white;
+		background-color: rgb(199, 168, 172);
+		border-radius: 5px;
+		font-size: larger;
+		display: block;
+		padding: 5px;
+		margin: 10px auto;
+}
+.marquee{
+
+	background-color: rgb(169, 247, 136);
+	padding: 10px 20px;
+	font-size: 20px;
+}
+
+.ha{
+	background-color: rgb(179, 156, 139);
+	
+}
+.l{
+	font-size: 20px;
+}
+.home{
+	
+	width:100% ;
+	height:auto ;
+	background-size: cover;
+}
+
+.map{
+	padding: 50px 500px;
+	width:"1800px" ;
+	height:"450" ;
+	border:0;
+	
+}
+
+
+ 
+.map{
+	background-color:white;
+}
+
+	
